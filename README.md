@@ -22,7 +22,6 @@ npx skills update
 
 | 技能 | 说明 |
 | --- | --- |
-| [test-skill](skills/test-skill/) | 临时测试技能，验证安装链路用，链路验证完成后可删除 |
 | [single-html](skills/single-html/) | 用 petite-vue 构建单文件交互式 HTML 页面，无需构建步骤 |
 
 ## 仓库结构
