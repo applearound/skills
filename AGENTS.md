@@ -1,10 +1,10 @@
 # AGENTS.md
 
-本文件向在此仓库工作的 coding agent 说明仓库约定。
+本文件向在此仓库工作的 agent 说明仓库约定。
 
 ## 仓库用途
 
-存放个人常用的 agent skills。仓库结构符合 [vercel-labs/skills](https://github.com/vercel-labs/skills) CLI 的发现规则，通过以下命令安装到本机：
+存放常用的 agent skills。仓库结构符合 [vercel-labs/skills](https://github.com/vercel-labs/skills) CLI 的发现规则，可通过以下命令安装到用户机器：
 
 ```bash
 npx skills add applearound/skills
@@ -40,14 +40,3 @@ npx skills add ./ --list
 ```
 
 输出中能看到改动涉及的技能即格式正确。
-
-## Git 约定
-
-- main 分支直接提交推送，提交信息用英文，一行说明改动。
-- 本仓库已配置本地 `core.sshCommand` 指向 Windows OpenSSH，推送直接 `git push` 即可。
-- 提交者身份配置在仓库本地（applearound 的 GitHub noreply 邮箱），不要改动。
-
-## 其他
-
-- `skills/test-skill` 是验证安装链路的临时技能，链路已验证通过，可随时删除。
-- README.md 面向仓库使用者，本文件面向在此工作的 agent，两类内容不要混写。
