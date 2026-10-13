@@ -23,6 +23,7 @@ npx skills update
 | 技能 | 说明 |
 | --- | --- |
 | [single-html](skills/single-html/) | 用 petite-vue 构建单文件交互式 HTML 页面，无需构建步骤 |
+| [fugue-builder](skills/fugue-builder/) | 从零构建任意风格的赋格与复调音乐，约束搜索生成对位声部，渲染出 WAV/MIDI/谱面 |
 
 ## 仓库结构
 
