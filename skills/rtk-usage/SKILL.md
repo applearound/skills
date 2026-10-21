@@ -1,5 +1,5 @@
 ---
-name: rtk
+name: rtk-usage
 description: 教没有 rtk hook 集成的 agent 手动使用 rtk CLI 压缩命令输出。当要执行输出会进入上下文的 shell 命令（git、测试、构建、lint、类型检查、docker/kubectl、文件查看与搜索、curl），或用户提到 rtk、省 token、压缩命令输出、上下文太大时，使用本技能。
 ---
 

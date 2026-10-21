@@ -24,7 +24,7 @@ npx skills update
 | --- | --- |
 | [single-html](skills/single-html/) | 用 petite-vue 构建单文件交互式 HTML 页面，无需构建步骤 |
 | [fugue-builder](skills/fugue-builder/) | 从零构建任意风格的赋格与复调音乐，约束搜索生成对位声部，渲染出 WAV/MIDI/谱面 |
-| [rtk](skills/rtk/) | 教没有 rtk hook 集成的 agent 手动加 rtk 前缀压缩命令输出，含改写查询与截断找回 |
+| [rtk-usage](skills/rtk-usage/) | 教没有 rtk hook 集成的 agent 手动加 rtk 前缀压缩命令输出，含改写查询与截断找回 |
 | [jj-usage](skills/jj-usage/) | 介绍 jujutsu (jj) 这个 Git 兼容 VCS 的核心概念与日常命令，含历史改写、书签推送、colocated 仓库用法与官方文档链接 |
 
 ## 仓库结构
